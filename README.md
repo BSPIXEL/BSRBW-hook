@@ -1,5 +1,8 @@
-ingame hook for https://github.com/deyoyk/RankedBedwars
+ingame hook for RBW (Bedwars1058)
 
-please give me (deyo) creadits if this being used (dm loqkey on discord if any queries)
+made by deyoyk
+fix by bsskddd
 
-instead of making 1000 forks, make a pull request. let  updates be enjoyed by everyone.
+main fix 
+TeamAssigner (More precisely allocate players to the red and green teams)
+
